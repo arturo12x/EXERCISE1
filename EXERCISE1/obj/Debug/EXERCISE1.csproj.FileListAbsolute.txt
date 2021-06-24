@@ -1,0 +1,9 @@
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\bin\Debug\EXERCISE1.exe.config
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\bin\Debug\EXERCISE1.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\bin\Debug\EXERCISE1.pdb
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.Form1.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.Properties.Resources.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.csproj.GenerateResource.Cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXERCISE1\EXERCISE1\obj\Debug\EXERCISE1.pdb
